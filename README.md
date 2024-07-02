@@ -1,5 +1,5 @@
 # Go-Chinese-Game-Python3
-🎲 Go, a chinese game done in Python, 1º Project By Programming Fundamentals course subject 🎲
+🎲 Go, a chinese game done in Python, 1º Project By Programming Fundamentals course subject, (2023/2024)🎲
 
 Go is an abstract strategy board game for two players. The players alternately place stones of their color on
 the board, with the basic objective of forming territories around empty regions of the board. Whoever reaches
